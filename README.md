@@ -1,6 +1,9 @@
 ## 👩🏻‍💻 arabio.dev
 
 **`Desenvolvedor junior`**
+
+
+
 🧠 Desenvolvedor Web | Especializando em JavaScript, React.js e Node.js  
 🎓 Em constante evolução, com foco em soluções escaláveis e performáticas  
 💡 Interesse em IA, APIs RESTful, MongoDB e desenvolvimento full stack  
